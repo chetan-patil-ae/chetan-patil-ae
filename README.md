@@ -28,5 +28,5 @@
 
 ## Connect With Me
 - LinkedIn: linkedin.com/in/chetan-patil-211669280
-- Email: cetan.patil.ae@gmail.com
+- Email: chetan.patil.ae@gmail.com
 - GitHub: github.com/chetan-patil-ae
